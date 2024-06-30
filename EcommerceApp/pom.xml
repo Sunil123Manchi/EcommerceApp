@@ -8,7 +8,7 @@
   <name>EcommerceApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <properties>
-<sonar.host.url>http://52.66.202.71:9000</sonar.host.url>
+<sonar.host.url>http://13.233.165.254:9000</sonar.host.url>
 <sonar.login>admin</sonar.login>
 <sonar.password>password</sonar.password> 
 </properties>
